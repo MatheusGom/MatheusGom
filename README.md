@@ -20,19 +20,10 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/MatheusGom">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusGom&theme=dracula" alt="Stats"/>
-  </a> 
-
-<br>
-
-  <a href="https://github.com/MatheusGom">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusGom&theme=dracula" alt="Stats"/>
-  </a> 
-
-  <a href="https://github.com/MatheusGom">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusGom&theme=dracula" alt="Stats"/>
-  </a>
+  <img height="180em" src="https://raw.githubusercontent.com/MatheusGom/MatheusGom/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Stats"/>
+  <br>
+  <img height="180em" src="https://raw.githubusercontent.com/MatheusGom/MatheusGom/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats"/>
+  <img height="180em" src="https://raw.githubusercontent.com/MatheusGom/MatheusGom/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Stats"/>
 </div>
 
 <br>
